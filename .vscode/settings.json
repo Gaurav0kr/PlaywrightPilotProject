@@ -1,0 +1,5 @@
+{
+    "github-actions.remote-name": "PlaywrightPilotProject",
+    "github-actions.use-enterprise": false,
+    "github-actions.workflows.pinned.refresh.enabled": true
+}
